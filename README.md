@@ -11,4 +11,4 @@ The Game is adapted for launching on modern operating systems, in particular, Wi
 
 ![screen4](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen4.png)
 
-![screen5](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen5.png)
+![screen5](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen6.png)
