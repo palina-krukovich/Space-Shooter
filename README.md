@@ -3,15 +3,15 @@
 
 The Game is adapted for launching on modern operating systems, in particular, Windows 8 and later.
 
-![screen1](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen1.png)
+![screen1](https://github.com/palina-krukovich/Space-Shooter/blob/master/screenshots/screen1.png)
 
-![screen2](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen2.png)
+![screen2](https://github.com/palina-krukovich/Space-Shooter/blob/master/screenshots/screen2.png)
 
-![screen3](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen3.png)
+![screen3](https://github.com/palina-krukovich/Space-Shooter/blob/master/screenshots/screen3.png)
 
-![screen4](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen4.png)
+![screen4](https://github.com/palina-krukovich/Space-Shooter/blob/master/screenshots/screen4.png)
 
-![screen5](https://github.com/polina-krukovich/Space-Shooter/blob/master/screenshots/screen6.png)
+![screen5](https://github.com/palina-krukovich/Space-Shooter/blob/master/screenshots/screen6.png)
 
 
 
